@@ -22,3 +22,4 @@ if "omkar" in marks:
     print("yes")
 else:
     print("No")
+
